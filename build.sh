@@ -1,1 +1,1 @@
-docker build -t hornetq:latest .
+docker build -t lbradstreet/hornetq:latest .
